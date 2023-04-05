@@ -135,7 +135,7 @@ Following are the Winners of the Competition:
 ![HSR](Images/sports16.jpg)
 ![HSR](Images/Sports13.jpg)
 
-**<div align="center"> Winners from Sports meet 2022 </div>**
+ Winners from Sports meet 2022 
 
 </div>
 
@@ -144,7 +144,7 @@ Following are the Winners of the Competition:
 
 ***List of winners:***
 
-<div align="center">
+
 
 |S.No.|	Name                      |	Roll No.	|Class	|Event 	|Prize|
 |:--------|:----------|:-----------|:------|:---------|:---------|
@@ -155,7 +155,7 @@ Following are the Winners of the Competition:
 |5.	|Girls|	|BCA 1st	|4 X 400 Relay Race|	2nd|
 |6.	|Girls |			|BCA & MCA|Tug Of War	|1st|
 
-</div>
+
 
 <div align="center">
 
@@ -164,14 +164,16 @@ Following are the Winners of the Competition:
 ![HSR](Images/sports23.jpg) 
 ![HSR](Images/sports22.jpg)
 ![HSR](Images/sports25.jpg)
-**<div align="center"> Winners from Sports meet 2023 </div>**
+ 
+ Winners from Sports meet 2023 
+ 
 </div>
 
 ### **Youth Festival**
 
 ***Positions held by students:***
 
-<div align="center">
+
 
 |S.No.|	Name                      |Class	|Event 	|Prize|
 |:--------|:----------      |:-----------|:------|:---------|
@@ -183,7 +185,7 @@ Following are the Winners of the Competition:
 |6.|Minaz	|BCA 1st	|Skit (Zonal) & Mimicry (Zonal)|	2nd|
 |7.|Vikas Pal|	BCA 1st|	Mime (Zonal)|	1st|
 
-</div>
+
 
 ### Technical Events/Cultral Events
 |S.No.|Name of students |Class|Event|Organized by|Date|Prize|
