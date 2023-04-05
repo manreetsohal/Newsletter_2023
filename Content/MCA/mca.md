@@ -77,7 +77,8 @@ Prof. Kamalpreet Kaur and Prof. Gurjiwan Singh were the coordinator faculty of I
 <div align="center">
 
 ![HSR](Images/industrialtrip.jpeg)
-**<div align="center">Industrial Trip to Nebero Systems, Mohali</div>**
+ 
+Industrial Trip to Nebero Systems, Mohali
 
 </div>
 
@@ -111,7 +112,6 @@ Following are the Winners of the Competition:
 
 ***List of winners:***
 
-<div align="center">
 
 | Sr. No. | Name      | Roll No.   | Class | Event    | Prize    |
 |:--------|:----------|:-----------|:------|:---------|:---------|
@@ -122,7 +122,6 @@ Following are the Winners of the Competition:
 |5|Devinder Kumar|2191001|	BCA 1st	|1500 m race|	3rd| 
 |6|Girls	|	|	BCA & MCA |Tug of war	|1st|
 
-</div>
 
 <div align="center">
 
@@ -133,7 +132,7 @@ Following are the Winners of the Competition:
 ![HSR](Images/sports16.jpg)
 ![HSR](Images/Sports13.jpg)
 
-**<div align="center"> Winners from Sports meet 2022 </div>**
+ <div align="center"> Winners from Sports meet 2022 </div>
 
 </div>
 
