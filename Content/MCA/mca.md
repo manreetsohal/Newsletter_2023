@@ -113,8 +113,6 @@ Following are the Winners of the Competition:
 
 ***List of winners:***
 
-
-
 | Sr. No. | Name      | Roll No.   | Class | Event    | Prize    |
 |:--------|:----------|:-----------|:------|:---------|:---------|
 | 1       | Satleen Singh  | 2191050 |BCA 1st  | Discuss throw  | 1st  |
@@ -125,9 +123,6 @@ Following are the Winners of the Competition:
 |6|Girls	|	|	BCA & MCA |Tug of war	|1st|
 
 
-
-<div align="center">
-
 ![HSR](Images/sports11.jpg) 
 ![HSR](Images/sports12.jpg)
 ![HSR](Images/sports15.jpg)
@@ -136,8 +131,6 @@ Following are the Winners of the Competition:
 ![HSR](Images/Sports13.jpg)
 
  Winners from Sports meet 2022 
-
-</div>
 
 
 #### **Sports Day 2023- Held on 2-3 March,2023**
@@ -157,7 +150,6 @@ Following are the Winners of the Competition:
 
 
 
-<div align="center">
 
 ![HSR](Images/sports21.jpg)
 ![HSR](Images/sports24.jpeg)
@@ -167,7 +159,6 @@ Following are the Winners of the Competition:
  
  Winners from Sports meet 2023 
  
-</div>
 
 ### **Youth Festival**
 
@@ -188,6 +179,7 @@ Following are the Winners of the Competition:
 
 
 ### Technical Events/Cultral Events
+
 |S.No.|Name of students |Class|Event|Organized by|Date|Prize|
 |---|----|---|-----|------|---|--|
 |1.|Surya Dev & Vishal|MCA 1st|Java Maestros(Coding using JAVA)|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
