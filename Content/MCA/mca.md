@@ -78,6 +78,7 @@ Prof. Kamalpreet Kaur and Prof. Gurjiwan Singh were the coordinator faculty of I
 
 
 ![HSR](Images/industrialtrip.jpeg)
+
 Industrial Trip to Nebero Systems
 
 
@@ -112,7 +113,7 @@ Following are the Winners of the Competition:
 
 ***List of winners:***
 
-<div align="center">
+
 
 | Sr. No. | Name      | Roll No.   | Class | Event    | Prize    |
 |:--------|:----------|:-----------|:------|:---------|:---------|
@@ -123,7 +124,7 @@ Following are the Winners of the Competition:
 |5|Devinder Kumar|2191001|	BCA 1st	|1500 m race|	3rd| 
 |6|Girls	|	|	BCA & MCA |Tug of war	|1st|
 
-</div>
+
 
 <div align="center">
 
