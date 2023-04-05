@@ -36,7 +36,7 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 ## Publications
 
 - [ **Sohal, M.**, Bharany, S., Sharma, S., Maashi, M. S., & Aljebreen, M. (2022). A Hybrid Multi-Cloud Framework Using the IBBE Key Management System for Securing Data Storage. Sustainability, 14(20), 13561.](https://www.mdpi.com/2071-1050/14/20/13561)
-- **Saini, S.S. et al**, "Prediction of Smart Building and Smart City Resources using AI-techniques." Sustainability,2023 2nd International Conference for Innovation,Bengaluru,India,2023.  
+- **Saini, J.S. et al**, "Prediction of Smart Building and Smart City Resources using AI-techniques." Sustainability,2023 2nd International Conference for Innovation,Bengaluru,India,2023.  
 
 
 
