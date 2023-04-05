@@ -48,11 +48,11 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 | 1       |  A One-day seminar on Drug De-addiction            | Prof. Jasbir Singh Saini and Prof. Dinesh Anand | 1 day | 09 December, 2022   | GNDEC |
 
 
-<div align="center">
-
 ![HSR](Images/seminar1.jpg)	 
-![HSR](Images/Seminar2.jpg)**<div align="center">Faculty and students attending the Seminar </div>**
-</div>
+
+![HSR](Images/Seminar2.jpg)  
+
+Faculty and students attending the Seminar 
 
 
 
@@ -70,21 +70,24 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 <p align=justify>
 Department of Computer Applications, GNDEC Ludhiana had organized an Industrial visit on 21 April,2022 to Nebero systems private limited located in Mohali, SAS nagar, Chandigarh. The visit was organized by HOD of Computer Applications, Prof. Jasbir Singh Saini and Programme coordinator Prof. Dinesh Anand.
 </p>
+
 <p align=justify>
 Prof. Kamalpreet Kaur and Prof. Gurjiwan Singh were the coordinator faculty of Industrial visit. Students of BCA 1st year, 2nd year and MCA 1st year along with two coordinators faculty were in the Journey.
 </p>
 
-<div align="center">
+
 
 ![HSR](Images/industrialtrip.jpeg)
-**<div align="center">Industrial Trip to Nebero Systems, Mohali</div>**
+Industrial Trip to Nebero Systems
 
-</div>
+
 
 ### Rangoli Competition
+
 <p align=justify>
 A rangoli competition in lieu of Diwali celebration was organized by the department of Computer Applications on 21/10/2022 for the students of BCA and MCA. Prof. Birpal Kaur and Prof. Amanpreet Kaur were the coordinator faculty for the event.
 </p>
+
 <p align=justify>
 Following are the Winners of the Competition:
 </p>
@@ -93,15 +96,13 @@ Following are the Winners of the Competition:
 - 2nd Prize- Jai Kaundal (BCA 3rd  year) and Mittali makkar(BCA 1st year)
 - 3rd Prize- Sukhpreet Kaur and Arshpreet Singh (MCA 1st year)
 
-<div align="center">
 
 ![HSR](Images/Rangoli1.jpg) 
 ![HSR](Images/Rangoli2.jpg)
 ![HSR](Images/Rangoli3.jpg) 
 ![HSR](Images/Rangoli4.jpg)
-</div>
 
-**<div align="center">Dr. Parminder Singh (Head, CSE) along with the faculty of Computer Applications giving away the prizes to the winners </div>**
+**Dr. Parminder Singh (Head, CSE) along with the faculty of Computer Applications giving away the prizes to the winners**
 
 
 ### Students' achievements
